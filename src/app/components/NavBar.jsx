@@ -11,7 +11,7 @@ export default function NavBar(Type){
         <li><a href="/About" className="px-[2vw]">About</a></li>
         <li><a href="/Gallery" className="px-[2vw]">Gallery</a></li>
         <li><a href="/Experiences" className="px-[2vw]">Experiences</a></li>
-        <li><a href="###" className="px-[2vw]">Schedule Now</a></li>
+        <li><a href="/Contact" className="px-[2vw]">Schedule Now</a></li>
 
       </ul>
     </nav>        
