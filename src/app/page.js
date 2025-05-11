@@ -23,7 +23,7 @@ export default function Home() {
 
     <article className="bg-[#637A9F] h-[100vh]">
        <div>
-      <h2 className="text-center text-[7vw] py-[2vh] bg-[#004080]">Work With Noael.</h2>
+      <h2 className="text-center text-[7vw] py-[2vh] bg-[#004080] cartoony">Work With Noael.</h2>
       <div className="flex justify-evenly items-center mt-[5vh] px-4">
               <div className=" rounded-lg p-6 w-[30%] text-center">
                 <h4 className="text-xl font-bold mb-2">XXXXXXXX</h4>

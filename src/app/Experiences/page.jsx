@@ -4,6 +4,8 @@ export default function experiences(){
     
     return(
         <>
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <article className="bg-[#637A9F] h-[95vh]">
         <NavBar Type="About" />
         <div className="flex justify-between m-5">
@@ -26,6 +28,14 @@ export default function experiences(){
           </div>
 
         </div>
+=======
+        <article>
+        <NavBar type="Experience" />
+>>>>>>> Stashed changes
+=======
+        <article>
+        <NavBar type="Experience" />
+>>>>>>> Stashed changes
         </article>
         <article className="h-[100vh] bg-[#004080] text-white">
         <div className="flex justify-center gap-[3vw] pt-[5vh]">

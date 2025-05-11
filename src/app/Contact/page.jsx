@@ -1,3 +1,5 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import React from 'react'
 import NavBar from "../components/NavBar"
 import Appointer from "../components/Appointer"
@@ -33,3 +35,23 @@ function Contact() {
 }
 
 export default Contact
+=======
+=======
+>>>>>>> Stashed changes
+import NavBar from "../components/NavBar"
+export default function Contact(){
+    return(
+        <>
+        <article className="bg-[#637A9F] h-[100vh]">
+            <NavBar type="Contact"/>
+
+
+        </article>
+        </>
+    )
+<<<<<<< Updated upstream
+}
+>>>>>>> Stashed changes
+=======
+}
+>>>>>>> Stashed changes
