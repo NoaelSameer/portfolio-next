@@ -1,5 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 export default {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}", // Covers files in src/ (e.g., components, pages)
@@ -64,6 +65,8 @@ export default {
   plugins: [],
 };
 =======
+=======
+>>>>>>> Stashed changes
 
 export default{
     fontFamily:{
@@ -72,4 +75,7 @@ export default{
 }
 
 //   font-family: "Shadows Into Light", cursive;
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

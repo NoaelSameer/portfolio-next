@@ -1,6 +1,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 import React from 'react'
 import NavBar from "../components/NavBar"
 import Appointer from "../components/Appointer"
@@ -41,6 +42,8 @@ export default Contact
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
 import NavBar from "../components/NavBar"
 export default function Contact(){
     return(
@@ -54,6 +57,10 @@ export default function Contact(){
     )
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+}
+>>>>>>> Stashed changes
+=======
 }
 >>>>>>> Stashed changes
 =======

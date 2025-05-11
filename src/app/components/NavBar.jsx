@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 export default function NavBar({ Type }) {
   console.log(Type);
 
@@ -56,6 +57,8 @@ export default function NavBar({ Type }) {
   );
 }
 =======
+=======
+>>>>>>> Stashed changes
 export default function NavBar({Type}){
   console.log(Type)
 
@@ -84,4 +87,7 @@ export default function NavBar({Type}){
     </>
     )
 }
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

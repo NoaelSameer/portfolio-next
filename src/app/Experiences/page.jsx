@@ -7,6 +7,7 @@ export default function experiences(){
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <article className="bg-[#637A9F] h-[95vh]">
         <NavBar Type="About" />
         <div className="flex justify-between m-5">
@@ -29,6 +30,10 @@ export default function experiences(){
           </div>
 
         </div>
+=======
+        <article>
+        <NavBar type="Experience" />
+>>>>>>> Stashed changes
 =======
         <article>
         <NavBar type="Experience" />
